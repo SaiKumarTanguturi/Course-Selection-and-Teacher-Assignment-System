@@ -13,3 +13,28 @@ If the user chooses the Faculty Login, the dashboard requests the faculty member
 Assign Marks: Faculty can assign marks to students based on their performance in the respective courses. The process is simple and allows the faculty member to select a course, choose the students from that course, and input the marks accordingly.
 3. Administration Login:
 The Administration Login can provide various management-level features such as overseeing both students' and faculty activities, managing course data, and accessing reports. This section may also include options for auditing feedback and monitoring overall performance metrics.
+
+
+Procedure to Execute the Submitted Solution:
+
+1. Go through the files and understand the system 
+2. Clone the Repository:
+3. Install Dependencies:
+4. Set Up the Database:
+ 
+   - Create a database for the application
+
+5. Run Database Migrations
+6. Seed the Database (Optional):
+   - Populate the database with initial data for students, courses, and teachers:
+
+7. Access the Application:
+
+8. Logging In:
+   - Depending on your role (Student, Faculty, Admin), choose the appropriate login:
+     - Student Login: Select courses, view teacher profiles, and provide feedback.
+     - Faculty Login: Assign grades to students.
+     - Admin Login: Manage course data, monitor activities.
+
+10. Submission of Feedback:
+     PptStudents can submit feedback.
