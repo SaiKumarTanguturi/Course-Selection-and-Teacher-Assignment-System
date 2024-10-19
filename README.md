@@ -9,7 +9,7 @@ View Associated Faculties: Once the course is selected, the dashboard displays t
 Provide Feedback: The student can then give feedback for each faculty member, evaluating aspects such as teaching style, course materials, and overall experience.
 2. Faculty Login:
 If the user chooses the Faculty Login, the dashboard requests the faculty member’s registration number for verification. Once verified, the faculty member is directed to a page where they can:
-
+Enter Student Redgistration Number like 22091A05D6 upto 22091A05D25.
 Assign Marks: Faculty can assign marks to students based on their performance in the respective courses. The process is simple and allows the faculty member to select a course, choose the students from that course, and input the marks accordingly.
 3. Administration Login:
 The Administration Login can provide various management-level features such as overseeing both students' and faculty activities, managing course data, and accessing reports. This section may also include options for auditing feedback and monitoring overall performance metrics.
